@@ -1,4 +1,5 @@
-Dedicated and efficient full stack developer with 7+ years of experience in application layers, presentation layers, and databases. I specialize in developing robust digital solutions using Laravel, React, and Vue.js, combined with a proficiency in Python. With expertise in generative AI and ChatGPT, I offer a unique edge to your projects.
+Highly skilled Mobile App Developer with 4 years of experience in developing and launching successful applications on both iOS and Android platforms. Proven track record in increasing user engagement and revenue through implementing automated testing processes and collaborating with cross-functional teams to design and implement new user interfaces. Strong expertise in integrating mobile applications with backend services, implementing security measures, and optimizing app performance.
+
 - 🚀 Effective in communication and collaboration within teams, adept in Agile methodologies and waterfall processes.
 - 👋 Proficient in mentorship and knowledge sharing, promoting a culture of continuous learning within the team.
 - 😍 Skilled in analytical thinking and debugging techniques, proficient in error handling and logging to ensure robust applications.
